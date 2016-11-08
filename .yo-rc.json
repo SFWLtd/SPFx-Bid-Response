@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "newbid-webpart",
+    "libraryId": "2a1d0f97-629f-4e80-9358-3a0181a7e947",
+    "framework": "react"
+  }
+}

@@ -1,0 +1,49 @@
+.container {
+  text-align: center;
+}
+
+.dataInput {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
+}
+
+.bidLabel {
+  padding: 15px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.ms-Checkbox {
+  min-height: 0px;
+}
+
+.divDropdown {
+  padding-bottom: 15px;
+}
+
+.divButton {
+  padding-top: 20px;
+}
+
+.button {
+    text-decoration: none;
+}
+
+.createButton {
+  display: none;
+  margin-bottom: 15px;
+}
+
+.containerEnd {
+  display: none;
+  font-size: 30px;
+  color: green;
+}
+
+.errorMessage {
+  margin-top: 15px;
+  color: red;
+  font-size: 30px;
+}

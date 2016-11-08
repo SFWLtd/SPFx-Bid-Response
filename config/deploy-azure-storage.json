@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "spfysamples",
+  "container": "test-webpart",
+  "accessKey": "P22SHNqxdOehX97uABHJUWOuQQvo47tuQuuI8OgierGV6NjWzczoZ7dZ5hMnSZo3gnsFP4gGKoc+TQjxys9HsA=="
+}

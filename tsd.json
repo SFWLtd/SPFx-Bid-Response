@@ -1,0 +1,18 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "microsoft-ajax/microsoft.ajax.d.ts": {
+      "commit": "44cb62e919a165dcf164c0dd44cabc4984bf1f28"
+    },
+    "sharepoint/SharePoint.d.ts": {
+      "commit": "44cb62e919a165dcf164c0dd44cabc4984bf1f28"
+    },
+    "jquery/jquery.d.ts": {
+      "commit": "9a792f184cbd916cc24ab8964cfd3a04f9f1101b"
+    }
+  }
+}

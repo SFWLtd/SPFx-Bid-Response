@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "f9465739-c764-4dcb-9172-9c51dc776738",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "f9465739-c764-4dcb-9172-9c51dc776738",
+    "group": { "default": "Under Development" },
+    "title": { "default": "newbid" },
+    "description": { "default": "newbid description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "newbid"
+    }
+  }]
+}

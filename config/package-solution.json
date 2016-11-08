@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "newbid-webpart-client-side-solution",
+    "id": "2a1d0f97-629f-4e80-9358-3a0181a7e947",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/newbid-webpart.spapp"
+  }
+}
